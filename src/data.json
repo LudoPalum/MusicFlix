@@ -1,0 +1,38 @@
+{
+  "pop": [
+    {
+      "id": 1,
+      "titulo": "Taylor Swift - Anti-Hero",
+      "url": "https://www.youtube.com/watch?v=b1kbLwvqugk",
+      "imagem": "https://i.ytimg.com/vi/b1kbLwvqugk/hqdefault.jpg",
+      "sobre": "Taylor Swift é uma cantora e compositora americana conhecida por suas letras emotivas e melodias envolventes."
+    }
+  ],
+  "rock": [
+    {
+      "id": 1,
+      "titulo": "Foo Fighters - The Pretender",
+      "url": "https://www.youtube.com/watch?v=SBjQ9tuuTJQ",
+      "imagem": "https://i.ytimg.com/vi/SBjQ9tuuTJQ/hqdefault.jpg",
+      "sobre": "Foo Fighters é uma banda de rock americana liderada por Dave Grohl, ex-baterista do Nirvana."
+    }
+  ],
+  "hiphop": [
+    {
+      "id": 1,
+      "titulo": "Kendrick Lamar - HUMBLE.",
+      "url": "https://www.youtube.com/watch?v=tvTRZJ-4EyI",
+      "imagem": "https://i.ytimg.com/vi/tvTRZJ-4EyI/hqdefault.jpg",
+      "sobre": "Kendrick Lamar é um rapper e compositor americano aclamado por suas letras intensas e críticas sociais."
+    }
+  ],
+  "eletronica": [
+    {
+      "id": 1,
+      "titulo": "Martin Garrix - Animals",
+      "url": "https://www.youtube.com/watch?v=gCYcHz2k5x0",
+      "imagem": "https://i.ytimg.com/vi/gCYcHz2k5x0/hqdefault.jpg",
+      "sobre": "Martin Garrix é um DJ e produtor holandês, conhecido mundialmente por seus hits de música eletrônica."
+    }
+  ]
+}
